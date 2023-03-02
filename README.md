@@ -6,4 +6,4 @@ This application consist follwing functionalites.
 3) user can searched contact by name
 4) user can searched contact by mobile number
 
-It also contain functionalities to validate mobile number before inserting it into file.
+It also contain functionalities to validate mobile number before inserting it into file
